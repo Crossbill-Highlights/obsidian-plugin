@@ -1,6 +1,6 @@
 {
   "name": "obsidian-crossbill",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Obsidian plugin for importing highlights from Crossbill",
   "main": "main.js",
   "scripts": {
