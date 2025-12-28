@@ -1,3 +1,7 @@
+<p align="center">
+
+<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/6461072f-2265-443b-a018-db7ae26cb42f" />
+</p>
 # Crossbill Plugin for Obsidian
 
 This plugin allows you to import highlights from your Crossbill server directly into your Obsidian notes.
